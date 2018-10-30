@@ -1,10 +1,10 @@
-# Evolutility-UI-React
+# bobina2-ui
 
-Evolutility-UI-React provides a set of React Views to display and interact with objects of different data structures. These views work together to provide full web apps. 
+bobina2-ui provides a set of React Views to display and interact with objects of different data structures. These views work together to provide full web apps. 
 
-With Evolutility-UI-React you can quickly make a web application UI by configuring views with metadata instead of hand-coding Javascript, CSS, and HTML.
+With bobina2-ui you can quickly make a web application UI by configuring views with metadata instead of hand-coding Javascript, CSS, and HTML.
 
-Evolutility-UI-React works hand-in-hand with [Evolutility-Server-Node](https://github.com/evoluteur/evolutility-server-node) which provides the matching REST endpoints based on the same metadata.
+bobina2-ui works hand-in-hand with [bobina2-server](https://github.com/matiasjlopez/bobina2-server) which provides the matching REST endpoints based on the same metadata.
 
 This project is a **work in progress**. I'm still learning React.
 
@@ -12,14 +12,14 @@ This project is a **work in progress**. I'm still learning React.
 
 ## Installation
 
-[**Download**](https://github.com/evoluteur/evolutility-ui-react/archive/master.zip) or **clone** from [GitHub](https://github.com/evoluteur/evolutility-ui-react/).
+[**Download**](https://github.com/matiasjlopez/bobina2-ui/archive/master.zip) or **clone** from [GitHub](https://github.com/matiasjlopez/bobina2-ui/).
 
 ```bash
 # To get the latest stable version, use git from the command line.
-git clone https://github.com/evoluteur/evolutility-ui-react
+git clone https://github.com/matiasjlopez/bobina2-ui
 ```
 
-In the Evolutility-UI-React directory, use the command line to type the following:
+In the bobina2-ui directory, use the command line to type the following:
 
 ```bash
 # Install dependencies
@@ -32,7 +32,7 @@ npm start
 
 In a web browser, go to the url [http://localhost:8080/](http://localhost:8080/).
 
-For the REST endpoints, you also need to setup [Evolutility-Server-Node](https://github.com/evoluteur/evolutility-server-node).
+For the REST endpoints, you also need to setup [bobina2-server](https://github.com/matiasjlopez/bobina2-server).
 
 
 ## Views
